@@ -1,7 +1,4 @@
 
-
-
-
 # 🦸‍♂️ Superhero Universe Network – Take-Home Assignment
 
 Welcome! This project is part of a take-home coding challenge where you will design and analyze a superhero network using two CSV files.
