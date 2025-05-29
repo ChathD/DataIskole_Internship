@@ -1,3 +1,40 @@
+
+How to Run Code :
+
+Run the main method of of main.java file
+
+Sample Output :
+
+Total superheroes (nodes): 12
+Total connections (edges): 44
+Superheroes added in the last 3 days:
+Superhero{id='9', name='Scarlet Witch', createdAt='2025-05-24'}
+Superhero{id='10', name='Ant-Man', createdAt='2025-05-24'}
+Superhero{id='11', name='dataiskole', createdAt='2025-05-26'}
+Superhero{id='12', name='chathuri', createdAt='2025-05-29'}
+top 3 most connected superheroes:
+Superhero{id='1', name='Spider-Man', createdAt='2025-05-20'}
+Superhero{id='2', name='Iron Man', createdAt='2025-05-20'}
+Superhero{id='3', name='Thor', createdAt='2025-05-21'}
+Data iskole was created At:2025-05-26
+Data iskole friends are:
+Superhero{id='1', name='Spider-Man', createdAt='2025-05-20'}
+Superhero{id='5', name='Captain America', createdAt='2025-05-22'}
+Superhero{id='9', name='Scarlet Witch', createdAt='2025-05-24'}
+Superhero{id='10', name='Ant-Man', createdAt='2025-05-24'}
+
+=== Superhero Menu ===
+1. Add new superhero
+2. Add new connection
+3. Exit
+Choose an option (1-3): 1
+Enter superhero name: chathuri
+⚠️ Superhero with name 'chathuri' already exists.
+
+Tools or libraries you used :
+Java, IntelliJ Idea IDE
+
+
 # 🦸‍♂️ Superhero Universe Network – Take-Home Assignment
 
 Welcome! This project is part of a take-home coding challenge where you will design and analyze a superhero network using two CSV files.
