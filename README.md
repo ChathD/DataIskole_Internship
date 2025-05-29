@@ -10,7 +10,7 @@ Superhero and Friends Information Display
 Adding a superhero
 ![image](https://github.com/user-attachments/assets/bbeddf09-c243-475e-9320-c710339eb9a7)
 
-Adding a connection for the Superhero
+Adding a connection(friend) for the Superhero
 ![image](https://github.com/user-attachments/assets/9d6e0349-b868-49a2-b91f-96152827b3a7)
 
 
