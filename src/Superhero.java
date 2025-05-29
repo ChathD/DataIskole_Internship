@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Superhero {
+public class Superhero {
         String id;
         String name;
         String createdAt;
