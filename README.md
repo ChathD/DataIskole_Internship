@@ -1,7 +1,9 @@
 How to run the Code:
+
 Run the main method in the main.java file.
 
-Sample Output
+Sample Output:
+
 Superhero and Friends Information Display
 ![image](https://github.com/user-attachments/assets/4e0f0a1f-74ec-4787-ab83-27700e87261e)
 
@@ -13,8 +15,7 @@ Adding a connection for the Superhero
 
 
 Tools Used:
-IntelliJ Idea IDE
-ChatGPT
+IntelliJ Idea IDE, ChatGPT
 
 
 # 🦸‍♂️ Superhero Universe Network – Take-Home Assignment
