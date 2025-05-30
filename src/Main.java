@@ -62,6 +62,7 @@ public class Main {
             for (Superhero friend : d_superheroes) {
                 System.out.println(friend);
             }
+
         } else {
             System.out.println("Superhero 'dataiskole' not found.");
         }
@@ -285,6 +286,7 @@ public class Main {
                     Superhero targetHero = superheroMap.get(target);
                     if (sourceHero != null && targetHero != null) {
                         sourceHero.superheroes.add(targetHero);
+                        targetHero.superheroes.add(sourceHero);
                         edgeCount++;
                     }
                 }
