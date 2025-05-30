@@ -5,7 +5,8 @@ Run the main method in the main.java file.
 Sample Output:
 
 Superhero and Friends Information Display
-![image](https://github.com/user-attachments/assets/4e0f0a1f-74ec-4787-ab83-27700e87261e)
+![image](https://github.com/user-attachments/assets/c8d1bab3-03b3-4eed-a90d-b117cfa9b756)
+
 
 Adding a superhero
 ![image](https://github.com/user-attachments/assets/bbeddf09-c243-475e-9320-c710339eb9a7)
